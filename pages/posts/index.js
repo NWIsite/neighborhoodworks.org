@@ -1,32 +1,32 @@
 import Head from 'next/head';
 import { Fragment } from 'react';
 
-import AllPosts from '../../components/posts/all-posts';
-import { getAllPosts } from '../../lib/posts-util';
+import AboutUs from '../../components/posts/all-posts';
+import { getAboutUs } from '../../lib/posts-util';
 
-function AllPostsPage(props) {
+function AboutUsPage(props) {
   return (
     <Fragment>
       <Head>
-        <title>All Posts</title>
+        <title>More About Us</title>
         <meta
           name='description'
-          content='A list of all programming-related tutorials and posts!'
+          content='Learn how Neighborhood Works, Inc. improves communities.'
         />
       </Head>
-      <AllPosts posts={props.posts} />
+      <AboutUs posts={props.posts} />
     </Fragment>
   );
 }
 
 export function getStaticProps() {
-  const allPosts = getAllPosts();
+  const AboutUs = getAboutUs();
 
   return {
     props: {
-      posts: allPosts,
+      posts: AboutUs,
     },
   };
 }
 
-export default AllPostsPage;
+export default AboutUsPage;

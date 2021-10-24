@@ -14,10 +14,10 @@ function MainNavigation() {
       <nav>
         <ul>
           <li>
-            <Link href='/posts'>Posts</Link>
+            <Link href='/posts'>About Us</Link>
           </li>
           <li>
-            <Link href='/contact'>Contact</Link>
+            <Link href="https://gagives.org/organization/Neighborhood-Works">Donate</Link>
           </li>
         </ul>
       </nav>

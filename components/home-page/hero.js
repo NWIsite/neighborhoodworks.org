@@ -7,16 +7,15 @@ function Hero() {
     <section className={classes.hero}>
       <div className={classes.image}>
         <Image
-          src='/images/site/max.png'
-          alt='An image showing Max'
+          src='/images/site/georgiagives.png'
+          alt='Georgia Gives'
           width={300}
           height={300}
         />
       </div>
-      <h1>Hi, I'm Max</h1>
+      <h1>Donate via Georgia Gives</h1>
       <p>
-        I blog about web development - especially frontend frameworks like
-        Angular or React.
+        Neighborhood Works, Inc. is under construction. Please be patient with us while we update our site.
       </p>
     </section>
   );
