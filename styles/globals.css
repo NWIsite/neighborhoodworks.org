@@ -5,16 +5,16 @@
 }
 
 body {
-  --color-grey-50: hsl(265, 55%, 96%);
-  --color-grey-100: hsl(265, 19%, 88%);
-  --color-grey-200: hsl(265, 7%, 70%);
-  --color-grey-300: hsl(265, 6%, 66%);
-  --color-grey-400: hsl(265, 4%, 57%);
-  --color-grey-500: hsl(265, 3%, 53%);
-  --color-grey-600: hsl(265, 4%, 42%);
-  --color-grey-700: hsl(265, 4%, 31%);
-  --color-grey-800: hsl(276, 5%, 20%);
-  --color-grey-900: hsl(280, 5%, 13%);
+  --color-blue-50: hsl(265, 55%, 96%);
+  --color-blue-100: hsl(206, 75%, 92%);
+  --color-blue-200: hsl(207, 59%, 85%);
+  --color-blue-300: hsl(213, 40%, 61%);
+  --color-blue-400: hsl(214, 30%, 53%);
+  --color-blue-500: hsl(265, 3%, 53%);
+  --color-blue-600: hsl(265, 4%, 42%);
+  --color-blue-700: hsl(265, 4%, 31%);
+  --color-blue-800: hsl(276, 5%, 20%);
+  --color-blue-900: hsla(226, 96%, 30%, 0.931);
 
 
   --color-primary-50: hsl(217, 89%, 51%);
@@ -44,7 +44,7 @@ body {
   --size-40: 10rem;
 
   margin: 0;
-  background-color: var(--color-grey-500);
+  background-color: var(--color-blue-500);
   color: #252525;
   font-family: 'Roboto', sans-serif;
 }
