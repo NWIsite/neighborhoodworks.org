@@ -41,4 +41,21 @@ stated, ‘Reg, who’s next?’ Trooper Young is truly a servant and I’m cert
 command and Troopers who work with him will agree.”
 - Senior Reginal King, Alabama Law Enforcement Agency
 
-Donate via Georgia Gives [here](https://gagives.org/organization/Neighborhood-Works).
+Donate via Georgia Gives [here](https://gagives.org/organizationNeighborhood-Works).
+
+## Contact Us
+
+Neighborhood Works, Inc.
+
+Phone: 678-694-7134. 
+Fax: 678-668-7995.
+
+Neighborhood Works, Inc.
+P.O. Box 160217
+Atlanta, GA 30316
+
+Office: 
+1127 Hank Aaron Dr.
+Atlanta, GA 30315
+
+or email us at info@neighborhoodworks.org
