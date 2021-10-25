@@ -36,10 +36,11 @@ Internships at Neighborhood Works are an opportunity for us to invest in our com
 
 ## Contact Us
 
-Contact us at 678-694-7134. 
-Fax us at 678-668-7995.
-
 Neighborhood Works, Inc.
+
+Phone: 678-694-7134 
+Fax: 678-668-7995
+
 P.O. Box 160217
 Atlanta, GA 30316
 
