@@ -41,9 +41,12 @@ stated, ‘Reg, who’s next?’ Trooper Young is truly a servant and I’m cert
 command and Troopers who work with him will agree.”
 - Senior Reginal King, Alabama Law Enforcement Agency
 
-## Housing items up for final approval from Bibb County Commissioners by Joseph Speir | Tuesday, January26th, 2021
+## Neighborhood Works, Inc. in the News:
+## Housing items up for final approval from Bibb County Commissioners  
 
 external link: https://wgxa.tv/news/local/housing-items-up-for-final-approval-from-bibb-county-commissioners 
+
+by Joseph Speir  |  Tuesday, January 26th 2021
 
 Bibb County Commissioners heard two items regarding housing during their commission meeting on Tuesday, January 26.
 The first was a single family homeownership unit to be built on Roy Avenue in partnership with Habitat for Humanity.
@@ -51,9 +54,9 @@ The second, a combination of duplex to be built on Ernest Street and the renovat
 “And these are areas where you don’t usually see new structures and so this, to me, is just a good sign and it enhances the neighborhood,” said Commissioner Elaine Lucas during the meeting.
 Neighborhood Works would be partnered for the second item.
 
-## Neighborhood Works, Inc in the Media
+## Neighborhood Works, Inc. in the Media
 
-Executive Direcor of Neighborhood Works Taqwa Siddeeq sits down with radio host Reec Swiney from Reec Radio to talk about Affordable Housing.
+Executive Director of Neighborhood Works Taqwa Siddeeq sits down with radio host Reec Swiney from Reec Radio to talk about Affordable Housing.
 
 external link: https://ms-my.facebook.com/reecmedia/videos/2889057457996726/ 
 
