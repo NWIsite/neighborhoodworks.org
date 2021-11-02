@@ -17,9 +17,9 @@ body {
   --color-blue-900: hsla(226, 96%, 30%, 0.931);
 
 
-  --color-primary-50: hsl(217, 89%, 51%);
-  --color-primary-100: #cce7fd;
-  --color-primary-200: #bcd5f6;
+  --color-primary-50: hsl(217, 88%, 52%);
+  --color-primary-100: #f4f7faf6;
+  --color-primary-200: #d3ebff;
   --color-primary-300: #3981f3;
   --color-primary-400: #2b5cb8;
   --color-primary-500: #1e5bbd;
@@ -44,7 +44,7 @@ body {
   --size-40: 10rem;
 
   margin: 0;
-  background-color: var(--color-blue-500);
+  background-color: var(--color-white-500);
   color: #252525;
   font-family: 'Roboto', sans-serif;
 }
