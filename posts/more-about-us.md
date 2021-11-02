@@ -7,9 +7,8 @@ date: '2021-11-30'
 ---
 
 A Not-For-Profit organization. Help Neighborhood Works, Inc. strengthen communities with quality affordable housing 
-by donating to Neighborhood Works, Inc. via the secure link below at Georgia Gives.
+by donating to Neighborhood Works, Inc. via the secure link above at Georgia Gives.
 
-Donate via Georgia Gives [here](https://gagives.org/organization/Neighborhood-Works).
 
 ## What We Do:
 
@@ -61,7 +60,7 @@ Atlanta, GA 30315
 
 or email us at info@neighborhoodworks.org
 
-## Our Board
+### Our Board
 
 Yasir Waqaar - Entrepreneur
 
@@ -70,4 +69,9 @@ Kaleemah Ameen - Federal Civil Servant
 Steven C. “Bilal” Stroud - Community Leader and Motivational Speaker
 
 Want to get in touch with our board? 
+
 Email us at board@neighborhoodworks.org
+
+### Learn more about the code for this website
+
+Learn more about the code for this website [here](https://github.com/NWIsite/nwi2bc).

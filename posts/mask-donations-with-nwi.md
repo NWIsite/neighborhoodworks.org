@@ -46,7 +46,7 @@ command and Troopers who work with him will agree.”
 
 external link: https://wgxa.tv/news/local/housing-items-up-for-final-approval-from-bibb-county-commissioners 
 
-by Joseph Speir  |  Tuesday, January 26th 2021
+### by Joseph Speir  |  Tuesday, January 26th 2021
 
 Bibb County Commissioners heard two items regarding housing during their commission meeting on Tuesday, January 26.
 The first was a single family homeownership unit to be built on Roy Avenue in partnership with Habitat for Humanity.
@@ -60,9 +60,6 @@ Executive Director of Neighborhood Works Taqwa Siddeeq sits down with radio host
 
 external link: https://ms-my.facebook.com/reecmedia/videos/2889057457996726/ 
 
-## Donate
-
-Donate via Georgia Gives [here](https://gagives.org/organization/Neighborhood-Works).
 
 ## Contact Us
 
@@ -79,3 +76,8 @@ Office:
 Atlanta, GA 30315
 
 or email us at info@neighborhoodworks.org
+
+
+### Learn more about the code for this website
+
+Learn more about the code for this website [here](https://github.com/NWIsite/nwi2bc).
